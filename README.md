@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>First-year IT student in France</strong><br>
-  BTS SIO · Systems and Network Administration
+  <img src="./bts-sio.svg" width="385" alt="BTS SIO · Systems and Network Administration">
 </p>
 
 <p align="center">
