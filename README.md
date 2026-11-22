@@ -17,7 +17,6 @@
 <p align="center">
   ✧ <em>Currently working on</em> ✧<br>
   <strong>FoodKeeper 🌿</strong><br>
-  I’m designing the network infrastructure for a fictional startup.
 </p>
 <p align="center">
   ╰── ⋅ ⋅ ── ୨୧ ── ⋅ ⋅ ── ♡ ── ⋅ ⋅ ── ୨୧ ── ⋅ ⋅ ──╯
