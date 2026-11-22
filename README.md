@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="./pusheen-pink.png" width="145" alt="Pusheen typing on a pink laptop">
+  <img src="./pusheen-laptop-rosa.gif" width="145" alt="Pusheen typing on a pink laptop">
 </p>
 
 <p align="center">
