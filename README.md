@@ -7,7 +7,7 @@
 
 <p align="center">
   <strong>First-year IT student in France</strong><br>
-  with a focus on systems and network administration.
+  BTS SIO · Systems and Network Administration
 </p>
 
 <p align="center">
